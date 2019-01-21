@@ -1,0 +1,24 @@
+Movielens
+movies.csv
+use imdb instead if possible
+
+ratings.csv
++userId
++movieId
++rating(sync with imdb rating?)
++timestamp(maybe needed)
+
+
+links.csv
++movieId
++imdbId
+-tmdbId
+
+tags.csv
++movieId
++tag
+-timestamp
+-userId
+
+
+Imdb
