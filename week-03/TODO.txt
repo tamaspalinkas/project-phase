@@ -8,7 +8,6 @@ ratings.csv
 +rating(sync with imdb rating?)
 +timestamp(maybe needed)
 
-
 links.csv
 +movieId
 +imdbId
